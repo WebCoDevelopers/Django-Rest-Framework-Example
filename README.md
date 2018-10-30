@@ -9,7 +9,7 @@ Full Example Of Using djangorestframework To Provide End point Json format that 
 # Getting Started
 
 git must be installed in your system
-* [git version control](https://git-scm.com/ - git bash used to clone repos from github
+* [git version control](https://git-scm.com/) - git bash used to clone repos from github
 
 open terminal paste the command below and press enter
 ```
